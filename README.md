@@ -1,0 +1,2 @@
+What is Service? Write down types of Service. Create an MP3 player application by using service by following below instructions. Create MainActivity and design according to shown in below image. Use Material 3 design Create Service Class and implement MediaPlayer![5 1](https://user-images.githubusercontent.com/112237821/196905326-d6528dd8-ea55-40ac-b62c-c70d01fb33e6.jpg)
+![5 2](https://user-images.githubusercontent.com/112237821/196905334-7be7b420-c704-423b-bb3a-0a45210e13eb.jpg)
